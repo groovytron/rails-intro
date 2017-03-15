@@ -2,7 +2,7 @@
 lock "3.8.0"
 
 set :application, "rails-intro"
-set :repo_url, "https://github.com/HE-Arc/rails-intro.git"
+set :repo_url, "https://github.com/groovytron/rails-intro.git"
 
 # Default branch is :the-end
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
