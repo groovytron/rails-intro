@@ -43,7 +43,7 @@ group :development, :test do
   # Extra gem to test the Controller
   gem 'rails-controller-testing', '~> 1.0'
   # Use Puma as the app server
-  gem 'puma', '~> 3.8'
+  # gem 'puma', '~> 3.8'
 end
 
 group :development do
